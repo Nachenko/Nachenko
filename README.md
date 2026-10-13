@@ -4,13 +4,13 @@
 
 Experienced enterprise IT professional bringing an operations perspective to cybersecurity: understanding systems, troubleshooting failures, and building reliable software.
 
-| | |
-| :--- | :--- |
-| 🏢 **Background** | Enterprise application support · Production operations |
-| 🛡️ **Focus** | Linux & network security · Application security · Security engineering |
-| 🛠️ **Foundation** | Linux · Networking · Software development |
-| 🎓 **Education** | UNED cybersecurity technical degree — in progress |
-| 🌱 **Developing** | Python automation · CCNA2 networking coursework |
+<table>
+<tr><td>🏢 <strong>Background</strong></td><td>Enterprise application support · Production operations</td></tr>
+<tr><td>🛡️ <strong>Focus</strong></td><td>Linux & network security · Application security · Security engineering</td></tr>
+<tr><td>🛠️ <strong>Foundation</strong></td><td>Linux · Networking · Software development</td></tr>
+<tr><td>🎓 <strong>Education</strong></td><td>UNED cybersecurity technical degree — in progress</td></tr>
+<tr><td>🌱 <strong>Developing</strong></td><td>Python automation · CCNA2 networking coursework</td></tr>
+</table>
 
 ---
 
