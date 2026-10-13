@@ -1,5 +1,7 @@
 # Ignacio F · Nachenko
 
+[LinkedIn](https://www.linkedin.com/in/ignacio-fernandez-kramarenco-b60a2a36/)
+
 **Enterprise application support & production operations → cybersecurity**
 
 I'm an experienced enterprise IT professional transitioning into cybersecurity. My background in application support and production operations informs a practical approach to troubleshooting, reliability, and understanding how systems fail.
