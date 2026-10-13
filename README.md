@@ -6,6 +6,10 @@ I'm an experienced enterprise IT professional transitioning into cybersecurity. 
 
 My strengths span Linux, networking, and software development. I'm building on that foundation through application security and security engineering, with a focus on secure systems, automation, and operational visibility.
 
+### Stack
+
+Linux · Networking · C# / .NET · JavaScript / TypeScript · Vue · Python
+
 ### Currently developing
 
 - Cybersecurity technical degree at **UNED** — in progress.
