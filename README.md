@@ -1,26 +1,41 @@
 # Ignacio F · Nachenko
 
-[LinkedIn](https://www.linkedin.com/in/ignacio-fernandez-kramarenco-b60a2a36/)
-
 **Enterprise application support & production operations → cybersecurity**
 
-I'm an experienced enterprise IT professional transitioning into cybersecurity. My background in application support and production operations informs a practical approach to troubleshooting, reliability, and understanding how systems fail.
+Experienced enterprise IT professional bringing an operations perspective to cybersecurity: understanding systems, troubleshooting failures, and building reliable software.
 
-My strengths span Linux, networking, and software development. I'm building on that foundation through application security and security engineering, with a focus on secure systems, automation, and operational visibility.
+| | |
+| :--- | :--- |
+| 🏢 **Background** | Enterprise application support · Production operations |
+| 🛡️ **Focus** | Linux & network security · Application security · Security engineering |
+| 🛠️ **Foundation** | Linux · Networking · Software development |
+| 🎓 **Education** | UNED cybersecurity technical degree — in progress |
+| 🌱 **Developing** | Python automation · CCNA2 networking coursework |
 
-### Stack
+---
 
-Linux · Networking · C# / .NET · JavaScript / TypeScript · Vue · Python
+## 🛠️ Stack
 
-### Currently developing
+![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=A78BFA)
+![Networking](https://img.shields.io/badge/Networking-161B22?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-161B22?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-161B22?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=A78BFA)
+![Vue](https://img.shields.io/badge/Vue-161B22?style=for-the-badge&logo=vuedotjs&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=A78BFA)
 
-- Cybersecurity technical degree at **UNED** — in progress.
-- **Python** for scripting and automation.
-- **CCNA2 coursework** to deepen networking knowledge.
+---
 
-### Public development work
+## 🔎 Public development work
 
-- [busybar-apps](https://github.com/Nachenko/busybar-apps) — my fork of the BUSY Bar community app gallery, supporting hands-on work with Python and local HTTP APIs.
-- [busybar-codex](https://github.com/Nachenko/busybar-codex) — my fork of a TypeScript integration between BUSY Bar hardware and the Codex desktop app.
+| Project | Work |
+| :--- | :--- |
+| [busybar-apps](https://github.com/Nachenko/busybar-apps) | Fork of the BUSY Bar community app gallery · Python & local HTTP APIs |
+| [busybar-codex](https://github.com/Nachenko/busybar-codex) | Fork of a BUSY Bar / Codex desktop integration · TypeScript |
 
-These projects reflect my development and integration work as I grow my cybersecurity practice.
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ignacio-fernandez-kramarenco-b60a2a36/)
